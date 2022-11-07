@@ -45,3 +45,18 @@ ul {
     color: white;
     font-size: 30px;
 }
+
+.header__content {
+    background: rgb(136, 136, 191);
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.header__content-title, .header__content-text {
+    color: black;
+    font-size: 40px;
+}
