@@ -60,3 +60,16 @@ ul {
     color: black;
     font-size: 40px;
 }
+
+.main {
+    height: 100vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__title {
+    color: white;
+    font-size: 30px;
+}
